@@ -1,3 +1,17 @@
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/87247136/195157793-7485ba03-b504-4938-ba58-cbe6f9d4cc8f.png" alt="HackOctober 2022!!"/> </p> 
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/shreyanshdixit/)
+[![Top languages](https://img.shields.io/github/languages/top/Zircoz/AmazonSummarizer)](https://github.com/Zircoz/AmazonSummarizer/issues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Zircoz/AmazonSummarizer/issues)
+[![License](https://img.shields.io/github/license/Zircoz/AmazonSummarizer?style=flat-square)](https://github.com/Zircoz/AmazonSummarizer/blob/main/LICENSE)
+[![Forks](https://img.shields.io/github/forks/Zircoz/AmazonSummarizer.svg?logo=github)](https://github.com/Zircoz/AmazonSummarizer/graphs/contributors)
+[![Stargazers](https://img.shields.io/github/stars/Zircoz/AmazonSummarizer.svg?logo=github)](https://github.com/Zircoz/AmazonSummarizer/stargazers)
+[![Issues](https://img.shields.io/github/issues/Zircoz/AmazonSummarizer.svg?logo=github)](https://github.com/Zircoz/AmazonSummarizer/issues)
+[![Contributors](https://img.shields.io/github/contributors/Zircoz/AmazonSummarizer.svg?logo=github)](https://github.com/Zircoz/AmazonSummarizer/contributors)
+
 # AmazonSummarizer
 
 This tool is supposed to do exactly what the name says, "summarizing your Amazon data". Doesn't matter if you want to see your amazon spendings for better planning in future, or if you are a curious soul trying to 😲 from your "Amazon behaviour", this tool is for YOU.
