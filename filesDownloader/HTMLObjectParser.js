@@ -8,7 +8,7 @@
 
 //rows=temp0
 const parser = new DOMParser();
-for (let step = 1; step < 5; step++) {
+for (let step = 1; step < rows.length; step++) {
   strInnerHTML = rows.children[step].children[2].innerHTML;
   innerHTMLtemp = parser.parseFromString(strInnerHTML, "text/html");
   downloadURL = innerHTMLtemp.getElementsByTagName("a")[0].href;
