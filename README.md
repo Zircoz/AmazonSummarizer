@@ -1,5 +1,5 @@
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/87247136/195157793-7485ba03-b504-4938-ba58-cbe6f9d4cc8f.png" alt="HackOctober 2022!!"/> </p> 
+
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
